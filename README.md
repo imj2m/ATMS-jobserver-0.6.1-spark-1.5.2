@@ -1,8 +1,8 @@
 
 1. Start with "sbt" in the folder 
-2. 
+ 
 2. When showing the prompt ">" , type "reStart"
-3. 
+ 
 3. If not have jar file from "ATMS-Project-Spark", make a jar file using below command.
     sbt -Dscala.version=2.10.4 package
 
